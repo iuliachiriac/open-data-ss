@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import sys
 import csv
 
 
@@ -8,10 +7,6 @@ def average(grades):
 
 
 def main():
-    if len(sys.argv) != 1:
-        print('usage: {}'.format(sys.argv[0]))
-        sys.exit(1)
-
     with open('grades.csv') as f:
         grade_reader = csv.DictReader(f)
         grades = {column: [] for column in grade_reader.fieldnames[1:]}
