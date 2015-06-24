@@ -12,4 +12,6 @@ Useful links:
 
 * [Anunturi participare 2013.xls](http://data.gov.ro/dataset/achizitii-publice-2010-2014-anunturi-de-participare/resource/653d1f24-4bf0-4338-a74e-ae30bdba5ee2)
 
+* [Curs valutar XML](http://www.bnr.ro/nbrfxrates.xml)
+
 * [Populația pe județe](https://ro.wikipedia.org/wiki/Lista_județelor_României_după_populație)
